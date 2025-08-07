@@ -11,4 +11,4 @@ resources:
 
 images:
 - name: ghcr.io/Michigety/flask_Gitops_argoCD
-  newTag: main
+  newTag: 0.0.1
