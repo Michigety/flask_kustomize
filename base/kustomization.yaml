@@ -13,4 +13,4 @@ images:
 - name: ghcr.io/Michigety/flask_Gitops_argoCD
   newTag: 0.0.2
 - name: ghcr.io/michigety/flask_gitops_argocd
-  newTag: 0.0.1
+  newTag: 0.0.3
