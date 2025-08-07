@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: flask-app
-        image: ghcr.io/your-username/flask-health-check:latest
+        image: ghcr.io/Michigety/flask_Gitops_argoCD:latest
         ports:
         - containerPort: 5000
         env:
