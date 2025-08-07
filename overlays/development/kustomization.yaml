@@ -16,5 +16,5 @@ patches:
     name: flask-health-check
 
 images:
-- name: ghcr.io/Michigety/flask_Gitops_argoCD
+- name: ghcr.io/michigety/flask_gitops_argocd
   newTag: latest
