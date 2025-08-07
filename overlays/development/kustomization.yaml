@@ -17,4 +17,4 @@ patches:
 
 images:
 - name: ghcr.io/michigety/flask_gitops_argocd
-  newTag: latest
+  newTag: 0.0.4
